@@ -1,2 +1,3 @@
 # C-Prime-Plus 课后题
-A learning path of the book &lt;C Prime Plus>.
+---
+学习 C-Prime-Plus 时的课后习题.
